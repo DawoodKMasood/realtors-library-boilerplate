@@ -1,12 +1,13 @@
 import React from 'react';
 
 // import style from global.css
-import './style/global.css';
+import './styles/global.css';
 
 const Component = (props) => {
 
     return (
-        <div className="container">
+        <div className="">
+            
         </div>
     )
 }
